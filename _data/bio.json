@@ -65,6 +65,13 @@
       ]
     }
   ],
+
+  "test": [
+    {
+      "organization": "test"
+    }
+  ],
+  
   "activities": [
     {
       "organization": "Beta Alpha Psi - Delta Theta Chapter",
