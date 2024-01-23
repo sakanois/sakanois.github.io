@@ -65,53 +65,6 @@
       ]
     }
   ],
-
-  "test": [
-    {
-      "organization": "test"
-    }
-  ],
-  
-  "activities": [
-    {
-      "organization": "Beta Alpha Psi - Delta Theta Chapter",
-      "website": "https://www.bapuhm.org/",
-      "position": "Community Service Co-Chair",
-      "startDate": "2023",
-      "endDate": "Present"
-
-    }
-  ],  
-    "references": [
-    {
-      "name": "Available upon request"
-    }
-  ],
-  "volunteer": [
-        {
-            "organization": "Hawaiian Humane Society",
-            "website": "https://hawaiianhumane.org/",
-            "position": "Off-Site Cat Adoptions Volunteer",
-            "startDate": "2023",
-            "endDate": "Present",
-            "summary": ""
-        }
-    ],
-    "references": [
-    {
-      "name": "Available upon request"
-    }
-  ],
-   "volunteer": [
-        {
-            "organization": "Hawaiian Humane Society",
-            "website": "https://hawaiianhumane.org/",
-            "position": "Off-Site Cat Adoptions Volunteer",
-            "startDate": "2023",
-            "endDate": "Present",
-            "summary": ""
-        }
-    ],
   "references": [
     {
       "name": "Available upon request"
