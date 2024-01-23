@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Microsoft Windows" "Git/GitHub" ]
+      "keywords": [ "Microsoft Windows", "Git/GitHub" ]
     }
   ],
   "education": [
