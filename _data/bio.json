@@ -73,15 +73,15 @@
             "startDate": "2023",
             "endDate": "Present",
             "summary": ""
-        }
-    ],
-    "activities": [
+          
+        },
         {
             "organization": "Beta Alpha Psi - Delta Theta Chapter",
             "website": "https://www.bapuhm.org/",
-            "position": "Community Service Co-Chair",
+            "position": "Community Service Co-chair",
             "startDate": "2023",
-            "endDate": "Present"
+            "endDate": "Present",
+            "summary": ""
         }
     ],
   "references": [
